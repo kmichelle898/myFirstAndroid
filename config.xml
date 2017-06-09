@@ -6,5 +6,5 @@
 	<name>My First App</name>
 	<preference name = "Fullscreen" value="true" />
 	<description> This application is my First hybrid Application</description>
-	<icon src="images/logo.png"/>
+	<icon src="images/logo.jpg"/>
 </widget>
